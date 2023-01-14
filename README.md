@@ -1,1 +1,3 @@
 # sql-challenge
+
+This repository contains an analysis of employee data using SQL. The data includes six connected tables imported from csv files and set up in table_creation file. The data_analysis file includes a variety of queries ranging in complexity. Also included is an entity relationship diagram (ERD) to help understand the relationship between the different tables. Additionally, all table relationships are defined in the creation of the tables. 
